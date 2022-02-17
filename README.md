@@ -4,6 +4,8 @@
 
 This repository contains the various code, data and other details for the deep learning module of the bootcamp
 
+Charity Funding Predictor.docx              - Report for the homework in word format
+
 AlphabetSoupCharity.h5						- This is the unoptimized model saved after executing the Step_1_and_2_Starter_Code
 AlphabetSoupCharity_Optimization.h5			- This is the optimized model but not hypertuned in Step_3_and_4_Starter_Code.ipynb
 AlphabetSoupCharity_Optimization_ht.h5		- This is the hypertuned  model  in Step_3_and_4_Starter_Code.ipynb
